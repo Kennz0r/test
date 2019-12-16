@@ -11,7 +11,7 @@ function App() {
           LARS SUGEeeee balle
         </p>
         <p>
-          D E SANT HEHEd
+          D E SANT HEHE
         </p>
       </header>
     </div>
