@@ -11,7 +11,7 @@ function App() {
           LARS SUGE
         </p>
         <p>
-          D E SANT HEHEE
+          D E SANT HEHE
         </p>
       </header>
     </div>
