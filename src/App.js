@@ -13,6 +13,9 @@ function App() {
         <p>
           D E SANT HEHE
         </p>
+        <p>
+          COPYRIGHT THUNDERCUNTS GANG 2019
+        </p>
       </header>
     </div>
   );
