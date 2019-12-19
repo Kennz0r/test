@@ -8,10 +8,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          LARS SUGEeeee balle
+          TRU EG JER MEG
         </p>
         <p>
-          D E SANT HEHE
+          DET E SANT
         </p>
         <p>
           COPYRIGHT THUNDERCUNTS GANG 2019
