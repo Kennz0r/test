@@ -11,7 +11,7 @@ function App() {
           FIX D JÆVLA NETTE DOKKA
         </p>
         <p>
-          DET E SANT
+          SÅ HÅVARD KAN GANKA BOT
         </p>
         <p>
           COPYRIGHT THUNDERCUNTS GANG 2019
