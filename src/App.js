@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './yes.jpg';
+import logo from './meth.jpg';
 import './App.css';
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          TRU EG JER MEG
+          FIX D JÆVLA NETTE DOKKA
         </p>
         <p>
           DET E SANT
